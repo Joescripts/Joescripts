@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Joescripts
-- 👀 I’m interested in ... HTML, CSS ,JS, Jquery, PHP, Wordpress
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👀 I’m interested ... Wordpress Development (JQuery,PHP & MySQL)
+- 💞️ I’m looking to collaborate on ... Wordpress Themes & Plugins Development
+- 📫 How to reach me ... Send Invite
 
 <!---
 Joescripts/Joescripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
